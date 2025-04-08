@@ -17,3 +17,4 @@ public class Main {
 }
 
 //"hello world" ollololololoo
+//"Ночь, улица, фонарь"
